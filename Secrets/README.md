@@ -6,5 +6,5 @@ env:
     valueFrom:
       secretKeyRef:
         name: secret-name
-        key: secret-key
+        key: key
 ```
